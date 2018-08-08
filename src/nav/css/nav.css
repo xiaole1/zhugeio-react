@@ -1,0 +1,35 @@
+*{
+    margin: 0 auto;
+}
+.nav_ul{
+    width: 1200px;
+    height: 50px;
+    display: block;
+    padding: 0px;
+}
+.nav_ul>li{
+    display: inline-block;
+    text-align: left;
+    height: 50px;
+    line-height: 50px;
+    float: left;
+}
+.nav_ul>li>a{
+    display: block;
+    padding: 0 30px;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+}
+.nav_ul>li>a:active{
+    background:#0ea1eb;
+    color: #ffffff;
+}
+.nav_ul>li>a:hover{
+    color: #4680d1;
+}
+.case-education{
+    margin-top: 40px;
+    text-align:center;
+    font-size: 22px;
+}
